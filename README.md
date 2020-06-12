@@ -1,2 +1,3 @@
 # 6.033-Systems-Engineering
-self study for MIT 6.033  
+  * Watch the video lectures of MIT 6.033 Spring 2018 on youtube and take notes
+ 
